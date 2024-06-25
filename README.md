@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning R language. 
 - 💞️ I'm looking to collaborate in data visualisation.
 - 📫 How to contact me gonzalezpalominos.k@gmail.com
-- 😄 Pronouns: she / her / the
+- 😄 Pronouns: she / her 
 - ⚡ Fun fact: I love Kuromi 
 <!---
 karla-gp/karla-gp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
